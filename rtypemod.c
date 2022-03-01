@@ -9,6 +9,8 @@
 #include <stdlib.h>
 #include <math.h>
 
+// Maria Eugenia Reis da Fonseca
+
 const float FPS = 100;
 
 const int SCREEN_W = 960;
